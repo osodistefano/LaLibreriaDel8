@@ -1,0 +1,23 @@
+{
+  "name": "ProyectoIntegrador",
+  "version": "1.0.0",
+  "description": "Temática del sitio y público objetivo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osodistefano/LaLibreriaDel8.git"
+  },
+  "keywords": [],
+  "author": "grupo8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osodistefano/LaLibreriaDel8/issues"
+  },
+  "homepage": "https://github.com/osodistefano/LaLibreriaDel8#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
