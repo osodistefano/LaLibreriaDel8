@@ -11,7 +11,7 @@ Augusto Di stefano trabaja Clarin 365 en el sector de relacionamiento con los cl
 
 Agustin Torres
 
-Gaston Salz
+Gaston Salz estudia en el colegio La Salle su ultimo año de la secundaria. Tengo 17 años, todavia estoy viendo que carrera seguir, y mis hobbys son jugar al futbol, y a la computadora.
 
 Listado de al menos 5 referentes.
 
