@@ -1,0 +1,153 @@
+/*Paleta de colores
+Amarillo: #EAC926;
+Azul: #03264C;
+Celeste: #1259c3;
+Gris oscuro: #666;
+Gris claro: #ebebeb;
+Verde: #39b54a;*/
+
+
+* {
+    font-family: "Playfair+Display";
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a {
+    text-decoration:none;
+}
+
+body{
+    background-color: #ebebeb;
+}
+
+header{
+    background-color:rgb(250, 244, 244);
+}
+header div.header1 {
+    padding: 10px;
+    width: 50%;
+}
+div .logo img{
+    width: 30%;
+}
+
+.herramientas{
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    text-decoration:none;
+    padding: 10px;
+}
+
+.herramientas li{
+    padding: 10px; 
+}
+
+.buscador{
+    align-items: center;
+    display: flex;
+    padding: 5px;
+}
+.buscador p{
+    padding-right: 5px;
+}
+
+.top-header .slogan{
+    padding-left: 5px;
+}
+
+.herramientas2{
+    align-items: center;
+    display: flex;
+    list-style: none;
+    text-decoration:none;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+.herramientas2 li {
+    padding: 2px;
+    background-color: lightblue;
+    border: solid white 5px;
+}
+
+
+section.banner img {
+    width: 100%;
+}
+
+main section article img {
+    width: 100%;
+}
+
+.titseccion{
+    font-size: 24px;
+}
+.carrusel{
+    font-size: 18px;
+    text-align: center;
+}
+.descuentos{
+    font-size: 16px;
+}
+.descripcion{
+    font-size: 16px;
+}
+
+div.burger-menu{
+    text-align: center;
+}
+
+div.burger-menu i{
+    background-color: #03264C;
+    border-radius: 3px;
+    color: #FFF;
+    font-size: 20px;
+    height: 25px;
+    margin: 10px 0px 20px 0px;
+    padding: 10px ;
+    width: 40px;
+}
+.centrado {
+    text-align: center;
+}
+
+.secciones{
+    background-color: rgb(173, 173, 214);
+    color:black
+}
+
+div.qr{
+    width: 50%;
+}
+
+div.qr img{
+    width: 20%;
+}
+
+div.redesSociales{
+    width: 50%;
+}
+
+div.redesSociales img{
+    width: 20%;
+}
+
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+.footer1 ul li {
+    list-style: none;
+}
+
+.footer2{
+    display: flex;
+    text-align: center;
+    padding: 5px;
+}

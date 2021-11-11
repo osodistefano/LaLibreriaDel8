@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color:black
+}
+
+body{
+width: 400px;
+padding: 40px;
+
+
+}
+
+.tituloInicio{
+    text-align: center;
+}
+
+.formReg{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(188, 195, 233);
+    margin-top: 10px;
+    border-radius: 4px;
+}
+
+.formReg p {
+    margin: 5px;
+}
+
+.formReg p input{
+    border-radius: 5%;
+}
+
+p{
+    margin: px;
+}
+
+.sendButton {
+    text-align: center;
+}
